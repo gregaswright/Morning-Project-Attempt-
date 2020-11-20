@@ -1,0 +1,1 @@
+Very close. Your search needs a change handler to manage the value attribute so currently the search input doesnt work. Also, why the decision to only send the name to your submit handler rather than the entire new object with the show and image properties? 
